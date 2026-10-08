@@ -184,3 +184,5 @@ granted until both authors agree.
 The dataset is not covered by that decision: `forestfire.txt` is the UCI *Forest Fires*
 dataset by Cortez and Morais (2007), CC BY 4.0, and redistribution requires the
 attribution above.
+
+Os dados não são deste trabalho: ver `DATA-SOURCES.md` para a origem, a autoria e a licença do `forestfire.txt`.
